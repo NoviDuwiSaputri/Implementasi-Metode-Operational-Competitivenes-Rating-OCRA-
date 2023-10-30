@@ -4,3 +4,11 @@ dan sering digunakan sebagai metode Decision Support System. Implementasi metode
 berdasarkan perankingan hasil dari perhitungan metode.
 
 skripsi saya :)
+
+untuk menjalankan program
+1. silahkan buat folder baru dengan nama "asset"
+2. kemudian masukkan file
+   - css
+   - js
+   - datatables-1.10.12
+   - fontawesome-5.10.12 (bisa download sendiri ya)
