@@ -1,0 +1,1 @@
+# Implementasi-Metode-Operational-Competitivenes-Rating-OCRA-
