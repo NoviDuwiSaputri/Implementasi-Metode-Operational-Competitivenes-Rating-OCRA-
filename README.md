@@ -12,3 +12,5 @@ untuk menjalankan program
    - js
    - datatables-1.10.12
    - fontawesome-5.10.12 (bisa download sendiri ya)
+3. untuk database bisa dm twitter saya atau bisa bikin sendiri buat belajar
+4. selamat mencoba :)
